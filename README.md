@@ -15,9 +15,10 @@ sudo apt install curl
 https://www.osradar.com/install-homebrew-ubuntu-20-04-debian-10/
 
 # install nvm & node
-https://tecadmin.net/how-to-install-nvm-on-ubuntu-20-04/
-curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash 
-currently installed 12.20.1
+ - https://tecadmin.net/how-to-install-nvm-on-ubuntu-20-04/
+ - curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash 
+ - nvm alias default 12.20.1
+ - currently installed
 
 # android studio / react native setup
 https://reactnative.dev/docs/environment-setup
