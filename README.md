@@ -9,9 +9,9 @@ Extensions:
 
 # install git 
 sudo apt install git-all
-git config --g user.name "Ben Webb"
+git config --g user.name <NAME>
 
-git config --g user.email "ben.webb@candide.eu"
+git config --g user.email <EMAIL>
 
 git config --global pull.rebase true
 
@@ -38,7 +38,7 @@ https://www.osradar.com/install-homebrew-ubuntu-20-04-debian-10/
  
  - run: npm login 
  
- - username: oldben87, email: b-webb@outlook.com
+ - username: <USER_NAME>, email: <EMAIL>
  
 
 # android studio / react native setup
