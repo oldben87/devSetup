@@ -9,6 +9,7 @@ Extensions:
 
 # install git 
 sudo apt install git-all
+
 git config --g user.name <NAME>
 
 git config --g user.email <EMAIL>
