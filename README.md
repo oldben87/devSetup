@@ -66,3 +66,12 @@ https://reactnative.dev/docs/environment-setup
  
  - Mobile App in android sim
 
+# Install Docker, Compose & Navy
+ - https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
+ - Step 1 & 2 then restart Machine
+ 
+ - Install Docker Compose
+https://linuxize.com/post/how-to-install-and-use-docker-compose-on-ubuntu-18-04/
+
+
+
