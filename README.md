@@ -73,5 +73,5 @@ https://reactnative.dev/docs/environment-setup
  - Install Docker Compose
 https://linuxize.com/post/how-to-install-and-use-docker-compose-on-ubuntu-18-04/
 
-
+ - Install GCloud SDK https://cloud.google.com/sdk/docs/quickstart#deb
 
