@@ -25,6 +25,14 @@ alias clp='rn local-pg && set PGPASSWORD=caughtwithmyplantsdown && pgcli -h loca
 
 # VSCode install
 Extensions:
+ - Apollo GraphQL
+ - markdownlint - David Anson
+ - EditorConfig
+ - gitlens - Eric Amodio
+ - shell-format - foxundermoon
+ - graphql-for-vscode
+ - Todo Highlight
+ - vscode-icons
 
 
 # install git 
