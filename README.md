@@ -12,7 +12,6 @@ a guide to my dev setup
 
 
 
-
 # VSCode install
 Extensions:
 
