@@ -9,7 +9,7 @@ a guide to my dev setup
 - rn = rename
 - clp = postgres with psgci (needs fixing with password)
 
-```rename() {
+``` rename() {
   printf '\e]2;%s\a' "$*";
 }
 alias rn=rename
@@ -58,8 +58,6 @@ https://www.osradar.com/install-homebrew-ubuntu-20-04-debian-10/
  
  - run: npm login 
  
- - username: <USER_NAME>, email: <EMAIL>
- 
 
 # android studio / react native setup
 https://reactnative.dev/docs/environment-setup
@@ -97,7 +95,7 @@ https://linuxize.com/post/how-to-install-and-use-docker-compose-on-ubuntu-18-04/
  - Install GCloud SDK https://cloud.google.com/sdk/docs/quickstart#deb
 
 # Install Magic Wormhole file transfer
- - sudo apt install magic-wormhole
+ - ```sudo apt install magic-wormhole```
  
 # Install Insomnia
  - In Software / snap
