@@ -2,6 +2,16 @@
 a guide to my dev setup
 
 # aliases
+- ldb = local Postgres while running navy
+
+- rn = rename
+
+- clp = postgres with psgci (needs fixing with password)
+
+- rnra = run android simulator
+
+
+
 
 # VSCode install
 Extensions:
@@ -73,7 +83,12 @@ https://reactnative.dev/docs/environment-setup
  - Install Docker Compose
 https://linuxize.com/post/how-to-install-and-use-docker-compose-on-ubuntu-18-04/
 
+ - Follow steps in floating garden readme: https://bitbucket.org/candide-garden-app/floating-garden/src/master/
+
  - Install GCloud SDK https://cloud.google.com/sdk/docs/quickstart#deb
 
-# Install Magic Wormhole
+# Install Magic Wormhole file transfer
  - sudo apt install magic-wormhole
+ 
+# Install Insomnia
+ - In Software / snap
