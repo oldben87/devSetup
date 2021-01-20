@@ -9,7 +9,8 @@ a guide to my dev setup
 - rn = rename
 - clp = postgres with psgci (needs fixing with password)
 
-``` rename() {
+``` 
+rename() {
   printf '\e]2;%s\a' "$*";
 }
 alias rn=rename
